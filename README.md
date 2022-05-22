@@ -3,6 +3,18 @@ sprint planning assignment
 
 ### Purpose
 hire a personal chef to come and cook for you at home instantly through an online platform.
+### User Journey
+> As a user I can:
+
+
+| User activity | Description |
+| --- | --- |
+| `homescreen` | View all promotions, specials, chefs near user and search for chef section.|
+| `submit menu` | user will choose desired menu and submit booking details dates, address, number of guests, etc.|
+| `search chef` | user can search for a specific chef's name.|
+| `confirmation email` | user will get confirmation email from chef to fill instructions about ingredients required, the type of food arabic, indian and link to guest invitation and arrival and departure of chef and choose chef preferences either male or female.|
+| `payment` | users can either pay online or in person.|
+| `feedback` | users can submit a feedback on the chef's work. |
 
 ### User Stories
 
@@ -29,3 +41,4 @@ hire a personal chef to come and cook for you at home instantly through an onlin
 
 
 
+![Macato flowchart](https://user-images.githubusercontent.com/49692805/169693152-42e23fc3-87ff-4092-9712-b1aeecdf5589.jpg)
