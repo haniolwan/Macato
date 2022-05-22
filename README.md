@@ -41,4 +41,3 @@ hire a personal chef to come and cook for you at home instantly through an onlin
 
 
 
-![Macato flowchart](https://user-images.githubusercontent.com/49692805/169693152-42e23fc3-87ff-4092-9712-b1aeecdf5589.jpg)
