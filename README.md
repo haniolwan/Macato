@@ -1,7 +1,7 @@
-## Macato
+# Macato
 sprint planning assignment
 
-### Purpose
+## Purpose
 hire a personal chef to come and cook for you at home instantly through an online platform.
 ### User Journey
 > As a user I can:
